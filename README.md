@@ -7,17 +7,11 @@ A continuación te muestro una estructura simulada de las carpetas que encontrar
 ```
 TT-2C2025-Data-Analitycs-Notebooks/
 │
-├── 01-introduccion/
-│   ├── ejercicio1.ipynb
-│   └── ejercicio2.ipynb
+├── After_class_#
 │
-├── 02-python-basico/
-│   ├── variables.ipynb
-│   └── funciones.ipynb
+├── Clase_#
 │
-├── 03-analisis-datos/
-│   ├── pandas.ipynb
-│   └── visualizaciones.ipynb
+├── Ejercicios
 │
 └── README.md
 ```
