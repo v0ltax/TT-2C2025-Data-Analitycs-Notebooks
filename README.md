@@ -9,6 +9,8 @@ TT-2C2025-Data-Analitycs-Notebooks/
 │
 ├── Clase_#
 │
+├── Datasets
+│
 ├── Ejercicios
 │
 └── README.md
