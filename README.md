@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy v0ltax
 
-Soy estudiante de análisis de datos y este repositorio es un fork donde realizo los ejercicios y prácticas del curso.
+Estoy estudiando análisis de datos, y este repositorio es un fork donde realizo el seguimiento y prácticas del curso.
 
 ```
 TT-2C2025-Data-Analitycs-Notebooks/
